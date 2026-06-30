@@ -1,1 +1,0 @@
--record(function, {label :: binary(), function :: fun((any()) -> any())}).

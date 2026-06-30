@@ -1,1 +1,0 @@
--record(set, {input :: binary(), function :: binary(), reps :: list(float())}).

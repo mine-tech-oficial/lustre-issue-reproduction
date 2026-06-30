@@ -1,1 +1,0 @@
--record(t_custom, {name :: binary(), fields :: list(pprint@decoder:field())}).

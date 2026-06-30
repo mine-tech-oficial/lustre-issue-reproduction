@@ -1,1 +1,0 @@
--record(decimals, {n :: integer()}).

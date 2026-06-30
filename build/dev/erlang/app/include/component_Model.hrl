@@ -1,1 +1,0 @@
--record(model, {count :: integer()}).

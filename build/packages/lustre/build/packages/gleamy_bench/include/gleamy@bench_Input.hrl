@@ -1,1 +1,0 @@
--record(input, {label :: binary(), value :: any()}).

@@ -1,7 +1,0 @@
-{application, gleamy_bench, [
-    {vsn, "0.6.0"},
-    {applications, [gleam_stdlib]},
-    {description, "A library for benchmarking gleam code."},
-    {modules, [gleamy@bench]},
-    {registered, []}
-]}.
