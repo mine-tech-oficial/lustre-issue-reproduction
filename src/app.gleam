@@ -17,7 +17,6 @@ import mist.{type Connection, type ResponseData}
 // MAIN ------------------------------------------------------------------------
 
 pub fn main() {
-  let assert Ok(priv_dir) = application.priv_directory("app")
   let assert Ok(_) =
     fn(request: Request(Connection)) -> Response(ResponseData) {
       // In order to get started with server components, we'll need to handle at
