@@ -1,0 +1,1 @@
+-record(labelled, {label :: binary(), value :: gleam@dynamic:dynamic_()}).

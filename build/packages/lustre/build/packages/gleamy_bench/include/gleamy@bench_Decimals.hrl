@@ -1,0 +1,1 @@
+-record(decimals, {n :: integer()}).
